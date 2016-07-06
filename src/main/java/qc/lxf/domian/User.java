@@ -1,4 +1,4 @@
-package cn.wzvtc.soft14.domian;
+package qc.lxf.domian;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

@@ -1,9 +1,9 @@
-package cn.wzvtc.soft14.Service;
+package qc.lxf.Service;
 
-import cn.wzvtc.soft14.domian.User;
-import cn.wzvtc.soft14.repository.UserPepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import qc.lxf.domian.User;
+import qc.lxf.repository.UserPepo;
 
 import java.util.List;
 

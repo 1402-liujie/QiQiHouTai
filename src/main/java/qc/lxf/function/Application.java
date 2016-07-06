@@ -1,4 +1,4 @@
-package cn.wzvtc.soft14.function;
+package qc.lxf.function;
 
 /**
  * Created by asus on 2016/4/13.

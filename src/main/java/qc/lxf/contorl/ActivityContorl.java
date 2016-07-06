@@ -1,6 +1,6 @@
-package cn.wzvtc.soft14.contorl;
+package qc.lxf.contorl;
 
-import cn.wzvtc.soft14.Service.UserService;
+import qc.lxf.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

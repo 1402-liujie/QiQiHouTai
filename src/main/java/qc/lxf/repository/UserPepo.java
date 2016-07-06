@@ -1,8 +1,10 @@
-package cn.wzvtc.soft14.repository;
+package qc.lxf.repository;
 
-import cn.wzvtc.soft14.domian.User;
+
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
+import qc.lxf.domian.User;
+
 import java.util.List;
 
 /**
