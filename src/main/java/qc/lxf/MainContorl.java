@@ -13,6 +13,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 /**
  * Created by linji on 2016/3/4.
         */
+ */
 
 @RestController
 @EnableAutoConfiguration
@@ -20,8 +21,13 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @SpringBootApplication
 @CrossOrigin(origins = {},methods = {RequestMethod.GET,RequestMethod.POST,RequestMethod.OPTIONS})
 public class MainContorl extends WebMvcConfigurerAdapter {
-
-    public static void main(String[] args) throws Exception{
+    /**
+     * hello
+     * @param args
+     * @throws Exception
+     */
+    public static void main(String[] args) throws Exception {
         SpringApplication.run(MainContorl.class, args);
     }
+
 }
