@@ -31,4 +31,5 @@ public class MainContorl extends WebMvcConfigurerAdapter {
     String a(){
         return "1";
     }
+    //hi
 }
