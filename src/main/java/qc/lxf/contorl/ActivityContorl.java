@@ -1,6 +1,6 @@
 package qc.lxf.contorl;
 
-import qc.lxf.Service.UserService;
+import qc.lxf.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
