@@ -28,7 +28,6 @@ public class MainContorl extends WebMvcConfigurerAdapter {
         SpringApplication.run(MainContorl.class, args);
         /*hello*/
     }
-
     String a(){
         return "1";
     }
