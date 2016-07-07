@@ -13,8 +13,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 /**
  * Created by linji on 2016/3/4.
         */
- */
-
 @RestController
 @EnableAutoConfiguration
 @ComponentScan
