@@ -22,5 +22,6 @@ public class MainContorl extends WebMvcConfigurerAdapter {
 
     public static void main(String[] args) throws Exception{
         SpringApplication.run(MainContorl.class, args);
+        /*hello*/
     }
 }
